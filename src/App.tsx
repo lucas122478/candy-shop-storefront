@@ -75,8 +75,8 @@ const currencyOptions = [
     mainnetConnectionUrl: RPC_HOST,
   },
   {
-    currencySymbol: "56p",
-    treasuryMint: "56pdaHboK66cxRLkzkYVvFSAjfoNEETJUsrdmAYaTXMJ",
+    currencySymbol: "OCT",
+    treasuryMint: "FELtYNy3jpgL2pQZCrEaNp8387VpoVgctHjEmukAj9bE",
     currencyDecimals: 9,
     priceDecimals: 2,
     volumeDecimals: 1,
